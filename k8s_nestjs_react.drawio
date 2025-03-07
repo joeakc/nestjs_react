@@ -121,13 +121,13 @@
         <mxCell id="2z3PSl_iK4pZrVuzP7k2-9" value="develop" style="rhombus;whiteSpace=wrap;html=1;fillColor=#95D4FF;" vertex="1" parent="1">
           <mxGeometry x="240" y="250" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="2z3PSl_iK4pZrVuzP7k2-10" value="Platform Dev" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="2z3PSl_iK4pZrVuzP7k2-10" value="Platform Dev" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007FFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="155" y="60" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2z3PSl_iK4pZrVuzP7k2-12" value="Platform Preprod" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="2z3PSl_iK4pZrVuzP7k2-12" value="Platform Preprod" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007FFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="515" y="60" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2z3PSl_iK4pZrVuzP7k2-13" value="Platform Prod" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="2z3PSl_iK4pZrVuzP7k2-13" value="Platform Prod" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007FFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="875" y="60" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2z3PSl_iK4pZrVuzP7k2-14" value="feat/description or fix/description" style="rhombus;whiteSpace=wrap;html=1;fillColor=#95D4FF;" vertex="1" parent="1">
